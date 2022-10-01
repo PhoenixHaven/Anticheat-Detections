@@ -6,3 +6,4 @@ Third transaction on join will be -30765
 
 New Verus:
 Transactions will be the same for every person and will start at a different position depending on when the server was started.
+Can be disabled with combat disabler if transactions are sent every ~4-6 ticks
