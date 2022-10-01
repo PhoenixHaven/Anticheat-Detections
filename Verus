@@ -1,0 +1,8 @@
+Old Verus:
+
+First transaction on join will be -30767
+Second transaction on join will be -30766
+Third transaction on join will be -30765
+
+New Verus:
+Transactions will be the same for every person and will start at a different position depending on when the server was started.
