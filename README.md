@@ -8,14 +8,14 @@ Now without further ado; here's a table of all current detections.
 
 |**Anticheat**                       | **Still Updated** |
 | ---------------------------------- | ----------------- |
-| [AAC](/anticheats/AAC.md)          | 🟢                |
-| [Grim](/anticheats/Grim.md)        | 🟢                |
-| [Intave](/anticheats/Intave.md)    | 🟢                |
-| [Matrix](/anticheats/Matrix.md)    | 🟢                |
-| [NCP](/anticheats/NCP.md)          | 🟡                |
-| [Spartan](/anticheats/Spartan.md)  | 🟢                |
-| [Verus](/anticheats/Verus.md)      | 🟢                |
-| [Vulcan](/anticheats/Vulcan.md)    | 🟢                |
+| [AAC](/Anticheats/AAC.md)          | 🟢                |
+| [Grim](/Anticheats/Grim.md)        | 🟢                |
+| [Intave](/Anticheats/Intave.md)    | 🟢                |
+| [Matrix](/Anticheats/Matrix.md)    | 🟢                |
+| [NCP](/Anticheats/NCP.md)          | 🟡                |
+| [Spartan](/Anticheats/Spartan.md)  | 🟢                |
+| [Verus](/Anticheats/Verus.md)      | 🟢                |
+| [Vulcan](/Anticheats/Vulcan.md)    | 🟢                |
 
 *🟢=Updated within the last 3 months*
 *🟡=Unknown*
