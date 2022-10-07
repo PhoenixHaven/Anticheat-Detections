@@ -1,0 +1,1 @@
+AAC will not send any transactions and will only drag you downwards when you flag if you're off the ground
