@@ -4,8 +4,8 @@
 ## Anticheat Notes
 - [Need I say more?](https://www.youtube.com/watch?v=zQW3tBj4NDc&ab_channel=Spacing)
 
-##How to detect
-- 
+## How to detect
+There is servers that use Older and newer versions of Verus.
 
 ### Old Verus:
 
