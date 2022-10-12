@@ -24,5 +24,5 @@ Now without further ado; here's a table of all current detections.
 *🔴=Abandoned*
 
 ### Closing Notes
-Pheonix is a femboy.
+Phoenix is a femboy.
 This github page is on sale for 2 chinese coins!!
