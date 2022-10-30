@@ -12,3 +12,4 @@
 - Vulcan will send a transaction on velocity starting at -30767 and will go up by 1 every velocity
 - Vulcan will send a transaction on every potion effect added starting at -28767 and will go up by 1 for every potion effect
 - Vulcan has config options to lag back for ghost blocks and gravity (-0.0784000015258789)
+- When Vulcan lagbacks are disabled, there are still two checks that setback. If vulcan thinks you may be ghost blocking, it will set you back. Vulcan will also set you back when it detects no rotation, and will continue to lagback until you respond to the S08 correctly.
