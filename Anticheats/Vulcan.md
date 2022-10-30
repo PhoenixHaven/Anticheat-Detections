@@ -3,6 +3,7 @@
 / [Anticheat Discord](https://discord.gg/SCNuwUG)
 ## Anticheat Notes
 - Vulcan will copyright strike your video if uploaded with logs.
+- Vulcan will copyright strike you for showing its logo, or an illustration meant to be similar, in your thumbnails.
 - Vulcan could be for you! *(if you drink monster, are a femboy, and have a tiny penis)*
 
 ## How to detect
