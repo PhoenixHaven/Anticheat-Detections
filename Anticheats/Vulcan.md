@@ -13,3 +13,5 @@
 - Vulcan will send a transaction on every potion effect added starting at -28767 and will go up by 1 for every potion effect
 - Vulcan has config options to lag back for ghost blocks and gravity (-0.0784000015258789)
 - When Vulcan lagbacks are disabled, there are still two checks that setback. If vulcan thinks you may be ghost blocking, it will set you back. Vulcan will also set you back when it detects no rotation, and will continue to lagback until you respond to the S08 correctly.
+- Older vulcan literally tells you all its info if you join the server with one of the developers names, like "Frap". This is useful on cracked servers, however it was changed later in Vulcan.
+- Unlike most others AC's that use transactions, vulcan sends one transaction every two ticks, as opposed to another anticheat like karhu, that send one every tick.
