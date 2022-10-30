@@ -3,7 +3,7 @@
 
 ## Anticheat Notes
 - Buzz is no longer for sale, and was discontinued without warning by its developer's.
-- Buzz is rarely used now, however one notable server that still uses it is play.minelatino.com, a cracked spanish server which peaks at bout 1k players a day.
+- Buzz is rarely used now, however one notable server that still uses it is play.minelatino.com, a cracked spanish server which peaks at bout 1k players a day. They use Buzz 1.0.7
 
 ## How to detect
 - Buzz transactions are same for every player, and start at -32767.
