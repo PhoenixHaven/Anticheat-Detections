@@ -1,5 +1,5 @@
 # Buzz
-[Buzz Website]([https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-19-2.83626/](https://buzzanticheat.com/)
+[Buzz Website](https://buzzanticheat.com/)
 
 ## Anticheat Notes
 - Buzz is no longer for sale, and was discontinued without warning by its developer's.
