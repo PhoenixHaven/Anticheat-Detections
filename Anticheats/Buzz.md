@@ -13,4 +13,4 @@
 - Buzz desyncs the player on detected bad packets.
 
 - Send silly message ``` jd9jyQaj=J7fzA:PN4H~*`s}AZP\39T<we<knAb~4gd+S=- ```
-- ^ If buzz it will respond with buzz license, vers, server vers, and you'll get access to buzz alerts
+^ If buzz it will respond with buzz license, vers, server vers, and you'll get access to buzz alerts
