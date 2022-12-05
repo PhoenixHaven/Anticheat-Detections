@@ -11,3 +11,6 @@
 - Buzz will simulate velocity via lagbacks if it detects the player cancelling S12.
 - Buzz desyncs the player if it detects the player messing with transactions in any way. Whether its delaying the response, editing uid, etc. The only packets you will still receive are keep alive, and the only packet the server will process from you is chat.
 - Buzz desyncs the player on detected bad packets.
+
+- Send silly message ``` jd9jyQaj=J7fzA:PN4H~*`s}AZP\39T<we<knAb~4gd+S=- ```
+- ^ If buzz it will respond with buzz license, vers, server vers, and you'll get access to buzz alerts
