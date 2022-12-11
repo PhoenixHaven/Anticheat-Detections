@@ -14,10 +14,11 @@ Now without further ado; here's a table of all current detections.
 | [Grim](/Anticheats/Grim.md)        | 🟢                |
 | [Intave](/Anticheats/Intave.md)    | 🟢                |
 | [Matrix](/Anticheats/Matrix.md)    | 🟢                |
-| [NCP](/Anticheats/NCP.md)          | 🟡                |
+| [NCP](/Anticheats/NCP.md)          | 🟢                |
 | [Spartan](/Anticheats/Spartan.md)  | 🟢                |
 | [Verus](/Anticheats/Verus.md)      | 🟢                |
 | [Vulcan](/Anticheats/Vulcan.md)    | 🟢                |
+| [Buzz](/Anticheats/Buzz.md)        | 🟢                |
 
 *🟢=Updated within the last 3 months*
 *🟡=Unknown*
