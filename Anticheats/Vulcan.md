@@ -16,3 +16,4 @@
 - When Vulcan lagbacks are disabled, there are still two checks that setback. If Vulcan thinks you may be ghost-blocking, it will set you back. Vulcan will also set you back when it detects no rotation and will continue to lagback until you respond to the S08 correctly.
 - Older Vulcan tells you all its info if you join the server with one of the developer's names, like "Frap". This is useful on cracked servers, however, it was changed later in Vulcan.
 - Unlike most other ACs that use transactions, Vulcan sends one transaction every two ticks, as opposed to another anticheat like Karhu, which sends one every tick.
+- Vulcan will send an extra transaction to a player the server has just delivered velocity too
