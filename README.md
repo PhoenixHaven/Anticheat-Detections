@@ -11,7 +11,7 @@ Now without further ado; here's a table of all current detections.
 |**Anticheat**                       | **Still Updated** |
 | ---------------------------------- | ----------------- |
 | [AAC](/Anticheats/AAC.md)          | 🔴                |
-| [Grim](/Anticheats/Grim.md)        | 🔴                |
+| [Grim](/Anticheats/Grim.md)        | 🟢                |
 | [Intave](/Anticheats/Intave.md)    | 🟢                |
 | [Matrix](/Anticheats/Matrix.md)    | 🟢                |
 | [NCP](/Anticheats/NCP.md)          | 🟢                |
